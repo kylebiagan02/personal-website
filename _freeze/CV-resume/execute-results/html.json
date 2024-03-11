@@ -1,0 +1,14 @@
+{
+  "hash": "47dd364e4b3b429c0498ed18f35297cf",
+  "result": {
+    "markdown": "---\ntitle: \"CV and Resume\"\n---\n\n\nAbout this site\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 3\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 4\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

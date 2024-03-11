@@ -1,11 +1,36 @@
 ---
+toc: false
 title: "Home"
+image: profile-picture.jpeg
+about:
+  template: trestles
+  links:
+    - icon: github
+      text: GitHub
+      url: https://github.com/kylebiagan02
+    - icon: linkedin
+      text: LinkedIn
+      url: https://www.linkedin.com/in/kylebiagan02/
+    - icon: instagram
+      text: Instagram
+      url: https://www.instagram.com/kylebiagan02/
+    - icon: facebook
+      text: Facebook
+      url: https://www.facebook.com/kjoseph.bee/
 ---
 
-This is a Quarto website.
+Hello! My name is Kyle Biagan, a UCLA Class of 2024 undergraduate studying towards a Statistics and Data Science B.S. 
+
+Post graduation, I am seeking an internship or full-time entry-level position in an innovative, data-centric company within the artificial intelligence (AI), cloud server, enterprise software, or financial/banking industries. I am open to all work environments (in-person, remote, or hybrid).
+
+This website showcases all of my relevant academic and professional experience.
+
+Please explore my other pages and the hyperlinks above to find out a bit more about me. Thank you!
+
+# Contact Information
+
+**Email:** <kjbiagan23@gmail.com>
+
+**Phone Number:** (949) 689-8270
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```

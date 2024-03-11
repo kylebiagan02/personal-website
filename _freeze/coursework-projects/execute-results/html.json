@@ -1,0 +1,14 @@
+{
+  "hash": "7b3728de0602072e8211ab75b6e5e63b",
+  "result": {
+    "markdown": "---\ntitle: \"Coursework and Projects\"\n---\n\n\nAbout this site\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 3\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 4\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

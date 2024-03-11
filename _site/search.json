@@ -1,37 +1,72 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Home",
+    "objectID": "coursework-projects.html",
+    "href": "coursework-projects.html",
+    "title": "Coursework and Projects",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Intro to Data Science: R (A+)\nIntro to Data-Driven Mathematical Modeling: Life, Universe, & Everything (A)\nIntro to Programming: C++ (A)\nPython & Other Technologies for Data Science (A)\nReal Estate Finance and Investments (IP)\nPractice of Statistical Consulting (IP)\n\n\n\n\n\nPrinciples of Economics-Macro (A)\nCalculus with Applications, Second Course (A-)\nLinear Algebra with Applications (A)\nDifferential Equations (A)\nIntro to Computer Science: Python (A)\nTransition to Higher Mathematics (A)\nVector Calculus with Applications 1 (A-)\nPrinciples of Data Science with R (A)\nFinancial Accounting 1 & 2 (P)"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "coursework-projects.html#university-of-california-los-angeles-ucla",
+    "href": "coursework-projects.html#university-of-california-los-angeles-ucla",
+    "title": "Coursework and Projects",
     "section": "",
-    "text": "About this site\n\n1 + 3\n\n[1] 4"
+    "text": "Intro to Data Science: R (A+)\nIntro to Data-Driven Mathematical Modeling: Life, Universe, & Everything (A)\nIntro to Programming: C++ (A)\nPython & Other Technologies for Data Science (A)\nReal Estate Finance and Investments (IP)\nPractice of Statistical Consulting (IP)"
   },
   {
-    "objectID": "coursework.html",
-    "href": "coursework.html",
-    "title": "Coursework",
+    "objectID": "coursework-projects.html#university-of-california-santa-barbara-ucsb",
+    "href": "coursework-projects.html#university-of-california-santa-barbara-ucsb",
+    "title": "Coursework and Projects",
     "section": "",
-    "text": "About this site\n\n1 + 3\n\n[1] 4"
+    "text": "Principles of Economics-Macro (A)\nCalculus with Applications, Second Course (A-)\nLinear Algebra with Applications (A)\nDifferential Equations (A)\nIntro to Computer Science: Python (A)\nTransition to Higher Mathematics (A)\nVector Calculus with Applications 1 (A-)\nPrinciples of Data Science with R (A)\nFinancial Accounting 1 & 2 (P)"
+  },
+  {
+    "objectID": "coursework-projects.html#pbom-transmittal-memo-format",
+    "href": "coursework-projects.html#pbom-transmittal-memo-format",
+    "title": "Coursework and Projects",
+    "section": "PBOM Transmittal Memo Format",
+    "text": "PBOM Transmittal Memo Format\nThe Boeing Company\nWorked alongside Kevin C. (KC) Callahan and Van Ho, from Boeing’s BDS P-8A Estimating and Pricing team, in streamlining Material Estimate documentation by eliminating redundancies in the process."
+  },
+  {
+    "objectID": "coursework-projects.html#gaucho-recruiting-zone",
+    "href": "coursework-projects.html#gaucho-recruiting-zone",
+    "title": "Coursework and Projects",
+    "section": "Gaucho Recruiting Zone",
+    "text": "Gaucho Recruiting Zone\nUCSB Men’s Soccer Office\nWorked alongside Greg Wilson, Associate Head Coach of the UCSB Men’s Soccer team, in designing and photographing new material to create the UCSB Men’s Soccer team’s new official recruiting website for prospective student-athletes to access. Renamed the site to ‘Gaucho Recruiting Zone’ ."
+  },
+  {
+    "objectID": "work-experience.html",
+    "href": "work-experience.html",
+    "title": "Work Experience",
+    "section": "",
+    "text": "June 2022 - August 2022\nDuring Boeing’s ten-week Summer 2022 Business Internship Program (BBIP) - Finance, interacted directly with company leaders to discuss finance, strategy, and the future of Boeing. The Boeing Defense, Space & Security (BDS) P-8A Estimating and Pricing team has helped me apply my education to meaningful projects while developing skills in financial acumen, data analytics, financial modeling, emotional intelligence, and problem-solving."
+  },
+  {
+    "objectID": "work-experience.html#estimating-and-pricing-analyst-intern",
+    "href": "work-experience.html#estimating-and-pricing-analyst-intern",
+    "title": "Work Experience",
+    "section": "",
+    "text": "June 2022 - August 2022\nDuring Boeing’s ten-week Summer 2022 Business Internship Program (BBIP) - Finance, interacted directly with company leaders to discuss finance, strategy, and the future of Boeing. The Boeing Defense, Space & Security (BDS) P-8A Estimating and Pricing team has helped me apply my education to meaningful projects while developing skills in financial acumen, data analytics, financial modeling, emotional intelligence, and problem-solving."
+  },
+  {
+    "objectID": "work-experience.html#marketing-and-public-relations-intern",
+    "href": "work-experience.html#marketing-and-public-relations-intern",
+    "title": "Work Experience",
+    "section": "Marketing and Public Relations Intern",
+    "text": "Marketing and Public Relations Intern\nOctober 2021 - June 2022\nAssisted the Marketing and Public Relations Coordinator in supervising community outreach programs, developing and implementing marketing plans, and increasing support and attendance for Men’s Soccer games. Worked with the Men’s Soccer team’s Associate Head Coach in designing and photographing new material for the team’s official recruiting website."
   },
   {
     "objectID": "CV-resume.html",
     "href": "CV-resume.html",
     "title": "CV and Resume",
     "section": "",
-    "text": "About this site\n\n1 + 3\n\n[1] 4"
+    "text": "CV March 2024 Version\nCV\n\n\nResume March 2024 Version\nResume"
   },
   {
-    "objectID": "coursework-projects.html",
-    "href": "coursework-projects.html",
-    "title": "Coursework and Projects",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
     "section": "",
-    "text": "About this site\n\n1 + 3\n\n[1] 4"
+    "text": "Hello! My name is Kyle Biagan, a UCLA Class of 2024 undergraduate studying towards a Statistics and Data Science B.S.\nPost graduation, I am seeking an internship or full-time entry-level position in an innovative, data-centric company within the artificial intelligence (AI), cloud server, enterprise software, or financial/banking industries. I am open to all work environments (in-person, remote, or hybrid).\nThis website showcases all of my relevant academic and professional experience.\nPlease explore my other pages and the hyperlinks above to find out a bit more about me. Thank you!\n\nContact Information\nEmail: kjbiagan23@gmail.com\nPhone Number: (949) 689-8270\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   }
 ]

@@ -2,8 +2,43 @@
 title: "Coursework and Projects"
 ---
 
-About this site
+# Coursework
+## University of California, Los Angeles (UCLA)
+- Intro to Data Science: R (A+)
+- Intro to Data-Driven Mathematical Modeling: Life,
+Universe, & Everything (A)
+- Intro to Programming: C++ (A)
+- Python & Other Technologies for Data Science (A)
+- Real Estate Finance and Investments (IP)
+- Practice of Statistical Consulting (IP)
 
-```{r}
-1 + 3
-```
+## University of California, Santa Barbara (UCSB)
+- Principles of Economics-Macro (A)
+- Calculus with Applications, Second Course (A-)
+- Linear Algebra with Applications (A)
+- Differential Equations (A)
+- Intro to Computer Science: Python (A)
+- Transition to Higher Mathematics (A)
+- Vector Calculus with Applications 1 (A-)
+- Principles of Data Science with R (A)
+- Financial Accounting 1 & 2 (P)
+
+# Projects
+## PBOM Transmittal Memo Format
+*The Boeing Company*
+
+Worked alongside Kevin C. (KC) Callahan and Van Ho,
+from Boeing’s BDS P-8A Estimating and Pricing team,
+in streamlining Material Estimate documentation by
+eliminating redundancies in the process.
+
+## Gaucho Recruiting Zone
+*UCSB Men's Soccer Office*
+
+Worked alongside Greg Wilson, Associate Head Coach
+of the UCSB Men's Soccer team, in designing and
+photographing new material to create the UCSB Men's
+Soccer team's new official recruiting website for
+prospective student-athletes to access. Renamed the
+site to 'Gaucho Recruiting Zone'
+.

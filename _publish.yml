@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 25986e86-91d0-4b88-8712-c4b831db1d22
+      url: 'https://kylebiagan02.netlify.app'

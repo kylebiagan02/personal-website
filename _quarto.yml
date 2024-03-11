@@ -7,8 +7,8 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: about.qmd
-        text: About
+      - href: work-experience.qmd
+        text: Work Experience
       - href: coursework-projects.qmd
         text: Coursework and Projects
       - href: CV-resume.qmd
