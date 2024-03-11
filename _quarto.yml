@@ -1,0 +1,24 @@
+project:
+  type: website
+
+website:
+  title: "Kyle Biagan Personal Website"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: coursework-projects.qmd
+        text: Coursework and Projects
+      - href: CV-resume.qmd
+        text: CV and Resume
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+execute:
+  freeze: auto
