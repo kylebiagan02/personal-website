@@ -32,5 +32,3 @@ Please explore my hyperlinks and other pages to find out a bit more about me. Th
 **Email:** <kjbiagan23@gmail.com>
 
 **Phone Number:** (949) 689-8270
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
