@@ -1,7 +1,7 @@
 ---
 toc: false
 title: "Home"
-image: profile-picture.jpeg
+image: kyle-biagan-headshot.jpg
 about:
   template: trestles
   links:
@@ -19,9 +19,11 @@ about:
       url: https://www.facebook.com/kjoseph.bee/
 ---
 
-Hello! My name is Kyle Biagan, a UCLA Class of 2024 undergraduate studying towards a Statistics and Data Science B.S. 
+Greetings,
 
-Post graduation, I am seeking an internship or full-time entry-level position in an innovative, data-centric company within the artificial intelligence (AI), cloud server, enterprise software, or financial/banking industries. I am open to all work environments (in-person, remote, or hybrid).
+I am Kyle Biagan, a recent graduate from UCLA, holding a Bachelor of Science degree in Statistics and Data Science, Class of 2024.
+
+I am actively pursuing an internship or entry-level position in an innovative, data-centric company within the fields of artificial intelligence (AI), cloud services, enterprise software, or the financial/banking industry. I am flexible and open to various work environments, including in-person, remote, or hybrid settings.
 
 This website showcases all of my relevant academic and professional experience.
 
