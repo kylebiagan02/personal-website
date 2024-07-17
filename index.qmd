@@ -1,7 +1,7 @@
 ---
 toc: false
 title: "Home"
-image: kyle-biagan-solo.jpg
+image: Grad_Pic_Edit.jpg
 about:
   template: trestles
   links:
