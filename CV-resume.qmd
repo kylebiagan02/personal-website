@@ -1,8 +1,0 @@
----
-title: "CV and Resume"
----
-# CV June 2024 Version
-[CV](Kyle Biagan CV 2024.pdf "CV")
-
-# Resume June 2024 Version
-[Resume](Kyle Biagan Resume 2024.pdf "Resume")

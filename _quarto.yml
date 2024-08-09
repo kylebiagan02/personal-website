@@ -7,12 +7,14 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: work-experience.qmd
-        text: Work Experience
-      - href: coursework-projects.qmd
-        text: Coursework and Projects
-      - href: CV-resume.qmd
-        text: CV and Resume
+      - href: experience-projects.qmd
+        text: Experience and Projects
+      - href: education-coursework.qmd
+        text: Education and Coursework
+      - href: skills.qmd
+        text: Skills
+      - href: résumé.qmd
+        text: Résumé
 
 format:
   html:

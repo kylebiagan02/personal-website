@@ -1,0 +1,5 @@
+---
+title: "RÉSUMÉ"
+---
+
+<embed src="Kyle Biagan Resume August 2024.pdf" type="application/pdf" width="100%" height="600px" />

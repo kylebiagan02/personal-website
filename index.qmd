@@ -11,19 +11,11 @@ about:
     - icon: linkedin
       text: LinkedIn
       url: https://www.linkedin.com/in/kylebiagan02/
-    - icon: instagram
-      text: Instagram
-      url: https://www.instagram.com/kylebiagan02/
-    - icon: facebook
-      text: Facebook
-      url: https://www.facebook.com/kjoseph.bee/
 ---
 
-Greetings,
+Hello,
 
-I am Kyle Biagan, a recent graduate from UCLA, holding a Bachelor of Science degree in Statistics and Data Science, Class of 2024.
-
-I am actively pursuing an internship or entry-level position in an innovative, data-centric company within the fields of artificial intelligence (AI), cloud services, enterprise software, or the financial/banking industry. I am flexible and open to various work environments, including in-person, remote, or hybrid settings.
+I am Kyle Biagan, a recent UCLA graduate with a B.S. in Statistics and Data Science, strongly proficient in C++, Java, Python, R, SQL, and Tableau. Experienced in data analysis, visualization, and project collaboration during an internship at Boeing, where I optimized cost estimation methodologies and enhanced decision-making processes. Eager to leverage my skills in a company focused on data-driven projects.
 
 This website showcases all of my relevant academic and professional experience.
 
@@ -33,4 +25,4 @@ Please explore my hyperlinks and other pages to find out a bit more about me. Th
 
 **Email:** <kjbiagan23@gmail.com>
 
-**Phone Number:** (949) 689-8270
+**Phone Number:** +1 (949) 689-8270
