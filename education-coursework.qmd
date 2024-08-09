@@ -12,8 +12,7 @@ title: "EDUCATION AND COURSEWORK"
 COMPTNG 10A - Intro to Programming, DGT HUM 101 - Intro to Digital Humanities, MATH 42 - Intro to Data-Driven Mathematical Modeling: Life, Universe, and Everything, MATH 115A - Linear Algebra, MATH 131A - Analysis, STATS 15 - Intro to Data Science, STATS 21 - Python and Other Technologies for Data Science, STATS 100A - Intro to Probability, STATS 100B - Intro to Mathematical Statistics, STATS 100C - Linear Models, STATS 101A - Intro to Data Analysis and Regression, STATS 101B - Intro to Design and Analysis of Experiment, STATS 101C - Intro to Statistical Models and Data Mining, STATS 102A - Intro to Computational Statistics, STATS 102B - Intro to Computation and Optimization for Statistics, STATS 102C - Intro to Monte Carlo Methods, STATS 140XP/141XP - Practice of Statistical Consulting
 
 ## University of California, Santa Barbara (UCSB)
-### BS in Financial Mathematics and Statistics
-#### (Partially Completed, Transferred to UCLA)
+### BS in Financial Mathematics and Statistics *(Partially Completed, Transferred to UCLA)*
 **Santa Barbara, CA **
 *October 2020 – June 2022*
 
