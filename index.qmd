@@ -1,6 +1,6 @@
 ---
 toc: false
-title: "Home"
+title: "HOME"
 image: Grad_Pic_Edit.jpg
 about:
   template: trestles
@@ -15,7 +15,7 @@ about:
 
 Hello,
 
-I'm Kyle Biagan, a UCLA graduate with a B.S. in Statistics and Data Science, strongly proficient in Python, R, SQL, Java, C++, and Tableau. I'm experienced in data analysis, visualization, and project collaboration during an internship at Boeing, where I optimized cost estimation methodologies and enhanced decision-making processes. I'm eager to leverage my skills in a company focused on data-driven projects.
+I'm Kyle Biagan, UCLA graduate with a B.S. in Statistics and Data Science, proficient in Python, R, SQL, Java, C++, Tableau, and Git/GitHub. I'm experienced in data analysis, visualization, and process optimization, with proven results from an internship at Boeing. I'm seeking to apply technical and collaborative skills in data-driven projects.
 
 This website showcases all of my relevant academic and professional experience.
 

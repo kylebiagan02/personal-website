@@ -3,7 +3,15 @@ title: "EXPERIENCE AND PROJECTS"
 ---
 
 # Professional Experience
-## The Boeing Company
+
+## The Arbor Dental Group
+### Administrative Data Entry Assistant
+**Irvine, CA**
+*July 2023 - September 2023*
+
+Organized and maintained physical and electronic patient records to streamline retrieval and ensure data accuracy. Entered updated information into the office database, identified discrepancies, and supported the transition to a digital record-keeping system while preserving an accessible physical backup. Improved operational efficiency, reduced retrieval times, and enhanced data integrity.
+
+## Boeing
 ### Estimating and Pricing Analyst Intern
 **Tukwila, WA (Remote from Irvine, CA)**
 *June 2022 - August 2022*
@@ -17,7 +25,24 @@ During Boeing's ten-week Summer 2022 Business Internship Program (BBIP) - Financ
 
 Assisted the Marketing and Public Relations Coordinator in supervising community outreach programs, developing and implementing marketing plans to increase support and attendance for UCSB Men's Soccer games. Collaborated with the Associate Head Coach to design and photograph new material for the team's official recruiting website. Coordinated community outreach initiatives and crafted strategic marketing plans aimed at enhancing attendance and support for home games. Additionally, captured high-quality photographs of UCSB Men’s Soccer facilities, home games, and team-exclusive events, which improved marketing materials. This work ultimately elevated the digital presence of the UCSB Men's Soccer program.
 
+# Projects
+
+## Boeing
+### PBOM Transmittal Memo
+**Tukwila, WA (Remote from Irvine, CA)**
+*June 2022 - August 2022*
+
+Collaborated with Boeing’s BDS P-8A Estimating and Pricing team to streamline Material Estimate documentation by identifying and eliminating redundancies in the process. This optimization enhanced both efficiency and accuracy within the documentation workflow.
+
+## UCSB Men's Soccer
+### Gaucho Recruiting Zone Website
+**Santa Barbara, CA (Hybrid)**
+*October 2021 - June 2022*
+
+Partnered with the Associate Head Coach of the UCSB Men's Soccer team to design, photograph, and maintain new content for the rebranded official recruiting website, now named "Gaucho Recruiting Zone." This project aimed to enhance the site's appeal and accessibility for prospective student-athletes. Leveraging HTML, the collaboration resulted in a more engaging platform that effectively showcases the program and its opportunities.
+
 # Volunteer Experience
+
 ## St. John Neumann Catholic Church
 ### Usher, Altar Server, and Fundraiser
 **Irvine, CA**
@@ -31,18 +56,3 @@ Collaborate with a church ministry team to usher and altar serve during mass, en
 *August 2016 - Present*
 
 Collaborate with a church ministry team to altar serve during Mass, contributing to a reverent and organized worship experience for the parishioners. Additionally, assist in delivering food from the Second Harvest Food Bank of Orange County to underprivileged families, ensuring they receive essential resources and support.
-
-# Projects
-## The Boeing Company
-### PBOM Transmittal Memo
-**Tukwila, WA (Remote from Irvine, CA)**
-*June 2022 - August 2022*
-
-Collaborated with Kevin C. (KC) Callahan and Van Ho from Boeing’s BDS P-8A Estimating and Pricing team to streamline Material Estimate documentation by identifying and eliminating redundancies in the process. This optimization enhanced both efficiency and accuracy within the documentation workflow.
-
-## UCSB Men's Soccer
-### Gaucho Recruiting Zone Website
-**Santa Barbara, CA (Hybrid)**
-*October 2021 - June 2022*
-
-Partnered with Greg Wilson, Associate Head Coach of the UCSB Men's Soccer team, to design and photograph new content for the rebranded official recruiting website, now named "Gaucho Recruiting Zone." This project aimed to enhance the site's appeal and accessibility for prospective student-athletes. The collaboration resulted in a more engaging platform that effectively showcases the program and its opportunities.

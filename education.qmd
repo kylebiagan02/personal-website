@@ -1,0 +1,38 @@
+---
+title: "EDUCATION"
+---
+
+## University of California, Los Angeles (UCLA)
+### BS in Statistics and Data Science
+**Los Angeles, CA**
+*September 2022 – June 2024*
+
+#### Relevant Coursework:
+- **Coding/Programming:** Intro to Programming, Intro to Data Science, Python and Other Technologies for Data Science
+- **Statistics:** Intro to Probability, Intro to Mathematical Statistics, Linear Models, Intro to Data Analysis and Regression, Intro to Design and
+Analysis of Experiment, Intro to Statistical Models and Data Mining, Intro to Computational Statistics, Intro to Computation and Optimization for Statistics, Intro to Monte Carlo Methods, Practice of Statistical Consulting
+- **Mathematics:** Intro to Data-Driven Mathematical Modeling, Linear Algebra, Analysis
+
+#### Extracurriculars:
+- Fellowship of Catholic University Students (FOCUS)
+- Samahang Pilipino (SP) Pilipinx/Pilipinx American Community Organization
+
+## University of California, Santa Barbara (UCSB)
+### BS in Financial Mathematics and Statistics *(Partially Completed, Transferred to UCLA)*
+**Santa Barbara, CA **
+*October 2020 – June 2022*
+
+#### Relevant Coursework:
+- **Coding/Programming:** Intro to Computer Science, Principles of Data Science with R
+- **Economics:** Principles of Microeconomics, Principles of Macroeconomics, Financial Accounting, Intermediate Microeconomic Theory
+- **Mathematics:** Calculus with Applications, Linear Algebra, Differential Equations, Vector Calculus with Applications
+
+#### Achievements:
+- College of Letters and Science Dean's Honors (Fall 2020, Winter 2021, Winter 2022)
+- National Society of Collegiate Scholars (NSCS) Nomination (Winter 2021)
+- National Society of Leadership and Success (NSLS) Nomination (Winter 2021)
+
+#### Extracurriculars:
+- Data Analysis and Coding Club (DAnC), Data Science Club
+- Fellowship of Catholic University Students (FOCUS)
+- Kapatirang Pilipino (KP) Filipinx-Interest Organization

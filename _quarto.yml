@@ -2,15 +2,15 @@ project:
   type: website
 
 website:
-  title: "Kyle Biagan Personal Website"
   navbar:
     left:
+      - text: "Kyle Biagan's Personal Website"
       - href: index.qmd
         text: Home
       - href: experience-projects.qmd
         text: Experience and Projects
-      - href: education-coursework.qmd
-        text: Education and Coursework
+      - href: education.qmd
+        text: Education
       - href: skills.qmd
         text: Skills
       - href: résumé.qmd

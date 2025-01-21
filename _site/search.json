@@ -1,70 +1,56 @@
 [
   {
-    "objectID": "education-coursework.html",
-    "href": "education-coursework.html",
-    "title": "EDUCATION AND COURSEWORK",
-    "section": "",
-    "text": "Los Angeles, CA September 2022 – June 2024\n\n\nCOMPTNG 10A - Intro to Programming, DGT HUM 101 - Intro to Digital Humanities, MATH 42 - Intro to Data-Driven Mathematical Modeling: Life, Universe, and Everything, MATH 115A - Linear Algebra, MATH 131A - Analysis, STATS 15 - Intro to Data Science, STATS 21 - Python and Other Technologies for Data Science, STATS 100A - Intro to Probability, STATS 100B - Intro to Mathematical Statistics, STATS 100C - Linear Models, STATS 101A - Intro to Data Analysis and Regression, STATS 101B - Intro to Design and Analysis of Experiment, STATS 101C - Intro to Statistical Models and Data Mining, STATS 102A - Intro to Computational Statistics, STATS 102B - Intro to Computation and Optimization for Statistics, STATS 102C - Intro to Monte Carlo Methods, STATS 140XP/141XP - Practice of Statistical Consulting\n\n\n\n\n\n\n\nSanta Barbara, CA  October 2020 – June 2022\n\n\nCMPSC 8 - Intro to Computer Science, ECON 1 - Principles of Microeconomics, ECON 2 - Principles of Macroeconomics, ECON 3A/B - Financial Accounting, ECON 10A - Intermediate Microeconomic Theory, MATH 3A/B - Calculus with Applications, MATH 4A - Linear Algebra, MATH 4B - Differential Equations, MATH 6A/B - Vector Calculus with Applications, MATH 8 - Transition to Higher Mathematics, PSTAT 10 - Principles of Data Science with R\n\n\n\n\nCollege of Letters and Science Dean’s Honors (Fall 2020, Winter 2021, Winter 2022)\nNational Society of Collegiate Scholars (NSCS) Nomination (Winter 2021)\nNational Society of Leadership and Success (NSLS) Nomination (Winter 2021)"
-  },
-  {
-    "objectID": "education-coursework.html#university-of-california-los-angeles-ucla",
-    "href": "education-coursework.html#university-of-california-los-angeles-ucla",
-    "title": "EDUCATION AND COURSEWORK",
-    "section": "",
-    "text": "Los Angeles, CA September 2022 – June 2024\n\n\nCOMPTNG 10A - Intro to Programming, DGT HUM 101 - Intro to Digital Humanities, MATH 42 - Intro to Data-Driven Mathematical Modeling: Life, Universe, and Everything, MATH 115A - Linear Algebra, MATH 131A - Analysis, STATS 15 - Intro to Data Science, STATS 21 - Python and Other Technologies for Data Science, STATS 100A - Intro to Probability, STATS 100B - Intro to Mathematical Statistics, STATS 100C - Linear Models, STATS 101A - Intro to Data Analysis and Regression, STATS 101B - Intro to Design and Analysis of Experiment, STATS 101C - Intro to Statistical Models and Data Mining, STATS 102A - Intro to Computational Statistics, STATS 102B - Intro to Computation and Optimization for Statistics, STATS 102C - Intro to Monte Carlo Methods, STATS 140XP/141XP - Practice of Statistical Consulting"
-  },
-  {
-    "objectID": "education-coursework.html#university-of-california-santa-barbara-ucsb",
-    "href": "education-coursework.html#university-of-california-santa-barbara-ucsb",
-    "title": "EDUCATION AND COURSEWORK",
-    "section": "",
-    "text": "Santa Barbara, CA  October 2020 – June 2022\n\n\nCMPSC 8 - Intro to Computer Science, ECON 1 - Principles of Microeconomics, ECON 2 - Principles of Macroeconomics, ECON 3A/B - Financial Accounting, ECON 10A - Intermediate Microeconomic Theory, MATH 3A/B - Calculus with Applications, MATH 4A - Linear Algebra, MATH 4B - Differential Equations, MATH 6A/B - Vector Calculus with Applications, MATH 8 - Transition to Higher Mathematics, PSTAT 10 - Principles of Data Science with R\n\n\n\n\nCollege of Letters and Science Dean’s Honors (Fall 2020, Winter 2021, Winter 2022)\nNational Society of Collegiate Scholars (NSCS) Nomination (Winter 2021)\nNational Society of Leadership and Success (NSLS) Nomination (Winter 2021)"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Home",
+    "title": "HOME",
     "section": "",
     "text": "Hello,\nI’m Kyle Biagan, a UCLA graduate with a B.S. in Statistics and Data Science, strongly proficient in Python, R, SQL, Java, C++, and Tableau. I’m experienced in data analysis, visualization, and project collaboration during an internship at Boeing, where I optimized cost estimation methodologies and enhanced decision-making processes. I’m eager to leverage my skills in a company focused on data-driven projects.\nThis website showcases all of my relevant academic and professional experience.\nPlease explore my hyperlinks and other pages to find out a bit more about me. Thank you!\n\nContact Information\nEmail: kjbiagan23@gmail.com\nPhone Number: +1 (949) 689-8270"
+  },
+  {
+    "objectID": "education.html",
+    "href": "education.html",
+    "title": "EDUCATION",
+    "section": "",
+    "text": "Los Angeles, CA September 2022 – June 2024\n\n\n\nCoding/Programming: Intro to Programming, Intro to Data Science, Python and Other Technologies for Data Science\nStatistics: Intro to Probability, Intro to Mathematical Statistics, Linear Models, Intro to Data Analysis and Regression, Intro to Design and Analysis of Experiment, Intro to Statistical Models and Data Mining, Intro to Computational Statistics, Intro to Computation and Optimization for Statistics, Intro to Monte Carlo Methods, Practice of Statistical Consulting\nMathematics: Intro to Data-Driven Mathematical Modeling, Linear Algebra, Analysis\n\n\n\n\n\nFellowship of Catholic University Students (FOCUS)\nSamahang Pilipino (SP) Pilipinx/Pilipinx American Community Organization"
+  },
+  {
+    "objectID": "education.html#university-of-california-los-angeles-ucla",
+    "href": "education.html#university-of-california-los-angeles-ucla",
+    "title": "EDUCATION",
+    "section": "",
+    "text": "Los Angeles, CA September 2022 – June 2024\n\n\n\nCoding/Programming: Intro to Programming, Intro to Data Science, Python and Other Technologies for Data Science\nStatistics: Intro to Probability, Intro to Mathematical Statistics, Linear Models, Intro to Data Analysis and Regression, Intro to Design and Analysis of Experiment, Intro to Statistical Models and Data Mining, Intro to Computational Statistics, Intro to Computation and Optimization for Statistics, Intro to Monte Carlo Methods, Practice of Statistical Consulting\nMathematics: Intro to Data-Driven Mathematical Modeling, Linear Algebra, Analysis\n\n\n\n\n\nFellowship of Catholic University Students (FOCUS)\nSamahang Pilipino (SP) Pilipinx/Pilipinx American Community Organization"
+  },
+  {
+    "objectID": "education.html#university-of-california-santa-barbara-ucsb",
+    "href": "education.html#university-of-california-santa-barbara-ucsb",
+    "title": "EDUCATION",
+    "section": "University of California, Santa Barbara (UCSB)",
+    "text": "University of California, Santa Barbara (UCSB)\n\nBS in Financial Mathematics and Statistics (Partially Completed, Transferred to UCLA)\nSanta Barbara, CA  October 2020 – June 2022\n\nRelevant Coursework:\n\nCoding/Programming: Intro to Computer Science, Principles of Data Science with R\nEconomics: Principles of Microeconomics, Principles of Macroeconomics, Financial Accounting, Intermediate Microeconomic Theory\nMathematics: Calculus with Applications, Linear Algebra, Differential Equations, Vector Calculus with Applications\n\n\n\nAchievements:\n\nCollege of Letters and Science Dean’s Honors (Fall 2020, Winter 2021, Winter 2022)\nNational Society of Collegiate Scholars (NSCS) Nomination (Winter 2021)\nNational Society of Leadership and Success (NSLS) Nomination (Winter 2021)\n\n\n\nExtracurriculars:\n\nData Analysis and Coding Club (DAnC), Data Science Club\nFellowship of Catholic University Students (FOCUS)\nKapatirang Pilipino (KP) Filipinx-Interest Organization"
   },
   {
     "objectID": "skills.html",
     "href": "skills.html",
     "title": "SKILLS",
     "section": "",
-    "text": "C++, Java, Python, R, SQL, Tableau, Git/GitHub, Jupyter Notebook, PyCharm, Visual Studio, Xcode, Adobe Acrobat, Google Workspace (Colab, Docs, Sheets, Slides), Microsoft Office (Excel, PowerPoint, Word)"
-  },
-  {
-    "objectID": "skills.html#technical",
-    "href": "skills.html#technical",
-    "title": "SKILLS",
-    "section": "",
-    "text": "C++, Java, Python, R, SQL, Tableau, Git/GitHub, Jupyter Notebook, PyCharm, Visual Studio, Xcode, Adobe Acrobat, Google Workspace (Colab, Docs, Sheets, Slides), Microsoft Office (Excel, PowerPoint, Word)"
-  },
-  {
-    "objectID": "skills.html#data",
-    "href": "skills.html#data",
-    "title": "SKILLS",
-    "section": "Data",
-    "text": "Data\nData (Analysis, Cleaning, Mining, Transformation, Visualization, Warehousing), Experiment Design and Analysis, Machine Learning, Model Validation, Modeling (Financial, Mathematical, Predictive, Statistical), Predictive Analysis, Statistical Consulting"
-  },
-  {
-    "objectID": "skills.html#interpersonal",
-    "href": "skills.html#interpersonal",
-    "title": "SKILLS",
-    "section": "Interpersonal",
-    "text": "Interpersonal\nAdaptability, Critical Thinking, Detail Orientation, Effective Communication, Leadership, Multitasking, Organizational Efficiency, Problem-Solving, Self-Motivation, Team Collaboration, Time Management"
+    "text": "Technical\n\nPython, R, SQL, Java, C++\nTableau, Git/GitHub\nJupyter Notebook, RStudio, Visual Studio, Eclipse, Xcode\nMicrosoft Office (Excel, PowerPoint, Word), Google Workspace (Docs, Sheets, Slides)\n\n\n\nData\n\nData (Analysis, Cleaning, Mining, Transformation, Visualization, Warehousing)\nModeling (Financial, Mathematical, Statistical, Forecast), Model Validation\nExperiment Design and Analysis, Machine Learning, Inference and Predictive Analysis\nStatistical Consulting\n\n\n\nInterpersonal\n\nCommunication, Team and Cross-Functional Collaboration, Leadership, Adaptability, Active Listening\nTime Management, Project Management, Multitasking\nProblem-Solving, Critical Thinking, Decision-Making\nDetail Orientation, Efficient Organization, Creativity"
   },
   {
     "objectID": "experience-projects.html",
     "href": "experience-projects.html",
     "title": "EXPERIENCE AND PROJECTS",
     "section": "",
-    "text": "Tukwila, WA (Remote from Irvine, CA) June 2022 - August 2022\nDuring Boeing’s ten-week Summer 2022 Business Internship Program (BBIP) - Finance, interacted directly with company leaders to discuss finance, strategy, and the future of Boeing. Working with the Boeing Defense, Space & Security (BDS) P-8A Estimating and Pricing team provided an opportunity to apply education to meaningful projects while developing skills in financial acumen, data analytics, financial modeling, emotional intelligence, and problem-solving. Conducted data analysis of proposal requirements and developed actionable plans for compliant cost proposals, ensuring adherence to Federal Acquisition Regulations (FAR). Additionally, coordinated with cross-functional teams, including Estimating, Pricing, Procurement, Contracts, and Supply Chain, to optimize cost estimation methodologies and enhance proposal development workflows. The role also involved facilitating fact-finding and strategic negotiations, providing data transformation support that improved the accuracy of cost estimates and enhanced decision-making processes.\n\n\n\n\n\n\nSanta Barbara, CA (Hybrid) October 2021 - June 2022\nAssisted the Marketing and Public Relations Coordinator in supervising community outreach programs, developing and implementing marketing plans to increase support and attendance for UCSB Men’s Soccer games. Collaborated with the Associate Head Coach to design and photograph new material for the team’s official recruiting website. Coordinated community outreach initiatives and crafted strategic marketing plans aimed at enhancing attendance and support for home games. Additionally, captured high-quality photographs of UCSB Men’s Soccer facilities, home games, and team-exclusive events, which improved marketing materials. This work ultimately elevated the digital presence of the UCSB Men’s Soccer program."
+    "text": "Irvine, CA July 2023 - September 2023\nOrganized and maintained physical and electronic patient records to streamline retrieval and ensure data accuracy. Entered updated information into the office database, identified discrepancies, and supported the transition to a digital record-keeping system while preserving an accessible physical backup. Improved operational efficiency, reduced retrieval times, and enhanced data integrity.\n\n\n\n\n\n\nTukwila, WA (Remote from Irvine, CA) June 2022 - August 2022\nDuring Boeing’s ten-week Summer 2022 Business Internship Program (BBIP) - Finance, interacted directly with company leaders to discuss finance, strategy, and the future of Boeing. Working with the Boeing Defense, Space & Security (BDS) P-8A Estimating and Pricing team provided an opportunity to apply education to meaningful projects while developing skills in financial acumen, data analytics, financial modeling, emotional intelligence, and problem-solving. Conducted data analysis of proposal requirements and developed actionable plans for compliant cost proposals, ensuring adherence to Federal Acquisition Regulations (FAR). Additionally, coordinated with cross-functional teams, including Estimating, Pricing, Procurement, Contracts, and Supply Chain, to optimize cost estimation methodologies and enhance proposal development workflows. The role also involved facilitating fact-finding and strategic negotiations, providing data transformation support that improved the accuracy of cost estimates and enhanced decision-making processes.\n\n\n\n\n\n\nSanta Barbara, CA (Hybrid) October 2021 - June 2022\nAssisted the Marketing and Public Relations Coordinator in supervising community outreach programs, developing and implementing marketing plans to increase support and attendance for UCSB Men’s Soccer games. Collaborated with the Associate Head Coach to design and photograph new material for the team’s official recruiting website. Coordinated community outreach initiatives and crafted strategic marketing plans aimed at enhancing attendance and support for home games. Additionally, captured high-quality photographs of UCSB Men’s Soccer facilities, home games, and team-exclusive events, which improved marketing materials. This work ultimately elevated the digital presence of the UCSB Men’s Soccer program."
   },
   {
-    "objectID": "experience-projects.html#the-boeing-company",
-    "href": "experience-projects.html#the-boeing-company",
+    "objectID": "experience-projects.html#the-arbor-dental-group",
+    "href": "experience-projects.html#the-arbor-dental-group",
+    "title": "EXPERIENCE AND PROJECTS",
+    "section": "",
+    "text": "Irvine, CA July 2023 - September 2023\nOrganized and maintained physical and electronic patient records to streamline retrieval and ensure data accuracy. Entered updated information into the office database, identified discrepancies, and supported the transition to a digital record-keeping system while preserving an accessible physical backup. Improved operational efficiency, reduced retrieval times, and enhanced data integrity."
+  },
+  {
+    "objectID": "experience-projects.html#boeing",
+    "href": "experience-projects.html#boeing",
     "title": "EXPERIENCE AND PROJECTS",
     "section": "",
     "text": "Tukwila, WA (Remote from Irvine, CA) June 2022 - August 2022\nDuring Boeing’s ten-week Summer 2022 Business Internship Program (BBIP) - Finance, interacted directly with company leaders to discuss finance, strategy, and the future of Boeing. Working with the Boeing Defense, Space & Security (BDS) P-8A Estimating and Pricing team provided an opportunity to apply education to meaningful projects while developing skills in financial acumen, data analytics, financial modeling, emotional intelligence, and problem-solving. Conducted data analysis of proposal requirements and developed actionable plans for compliant cost proposals, ensuring adherence to Federal Acquisition Regulations (FAR). Additionally, coordinated with cross-functional teams, including Estimating, Pricing, Procurement, Contracts, and Supply Chain, to optimize cost estimation methodologies and enhance proposal development workflows. The role also involved facilitating fact-finding and strategic negotiations, providing data transformation support that improved the accuracy of cost estimates and enhanced decision-making processes."
@@ -75,6 +61,20 @@
     "title": "EXPERIENCE AND PROJECTS",
     "section": "",
     "text": "Santa Barbara, CA (Hybrid) October 2021 - June 2022\nAssisted the Marketing and Public Relations Coordinator in supervising community outreach programs, developing and implementing marketing plans to increase support and attendance for UCSB Men’s Soccer games. Collaborated with the Associate Head Coach to design and photograph new material for the team’s official recruiting website. Coordinated community outreach initiatives and crafted strategic marketing plans aimed at enhancing attendance and support for home games. Additionally, captured high-quality photographs of UCSB Men’s Soccer facilities, home games, and team-exclusive events, which improved marketing materials. This work ultimately elevated the digital presence of the UCSB Men’s Soccer program."
+  },
+  {
+    "objectID": "experience-projects.html#boeing-1",
+    "href": "experience-projects.html#boeing-1",
+    "title": "EXPERIENCE AND PROJECTS",
+    "section": "Boeing",
+    "text": "Boeing\n\nPBOM Transmittal Memo\nTukwila, WA (Remote from Irvine, CA) June 2022 - August 2022\nCollaborated with Boeing’s BDS P-8A Estimating and Pricing team to streamline Material Estimate documentation by identifying and eliminating redundancies in the process. This optimization enhanced both efficiency and accuracy within the documentation workflow."
+  },
+  {
+    "objectID": "experience-projects.html#ucsb-mens-soccer-1",
+    "href": "experience-projects.html#ucsb-mens-soccer-1",
+    "title": "EXPERIENCE AND PROJECTS",
+    "section": "UCSB Men’s Soccer",
+    "text": "UCSB Men’s Soccer\n\nGaucho Recruiting Zone Website\nSanta Barbara, CA (Hybrid) October 2021 - June 2022\nPartnered with the Associate Head Coach of the UCSB Men’s Soccer team to design and photograph new content for the rebranded official recruiting website, now named “Gaucho Recruiting Zone.” This project aimed to enhance the site’s appeal and accessibility for prospective student-athletes. The collaboration resulted in a more engaging platform that effectively showcases the program and its opportunities."
   },
   {
     "objectID": "experience-projects.html#st.-john-neumann-catholic-church",
@@ -89,19 +89,5 @@
     "title": "EXPERIENCE AND PROJECTS",
     "section": "St. Elizabeth Ann Seton Catholic Church",
     "text": "St. Elizabeth Ann Seton Catholic Church\n\nAltar Server and Food Bank Worker\nIrvine, CA August 2016 - Present\nCollaborate with a church ministry team to altar serve during Mass, contributing to a reverent and organized worship experience for the parishioners. Additionally, assist in delivering food from the Second Harvest Food Bank of Orange County to underprivileged families, ensuring they receive essential resources and support."
-  },
-  {
-    "objectID": "experience-projects.html#the-boeing-company-1",
-    "href": "experience-projects.html#the-boeing-company-1",
-    "title": "EXPERIENCE AND PROJECTS",
-    "section": "The Boeing Company",
-    "text": "The Boeing Company\n\nPBOM Transmittal Memo\nTukwila, WA (Remote from Irvine, CA) June 2022 - August 2022\nCollaborated with Kevin C. (KC) Callahan and Van Ho from Boeing’s BDS P-8A Estimating and Pricing team to streamline Material Estimate documentation by identifying and eliminating redundancies in the process. This optimization enhanced both efficiency and accuracy within the documentation workflow."
-  },
-  {
-    "objectID": "experience-projects.html#ucsb-mens-soccer-1",
-    "href": "experience-projects.html#ucsb-mens-soccer-1",
-    "title": "EXPERIENCE AND PROJECTS",
-    "section": "UCSB Men’s Soccer",
-    "text": "UCSB Men’s Soccer\n\nGaucho Recruiting Zone Website\nSanta Barbara, CA (Hybrid) October 2021 - June 2022\nPartnered with Greg Wilson, Associate Head Coach of the UCSB Men’s Soccer team, to design and photograph new content for the rebranded official recruiting website, now named “Gaucho Recruiting Zone.” This project aimed to enhance the site’s appeal and accessibility for prospective student-athletes. The collaboration resulted in a more engaging platform that effectively showcases the program and its opportunities."
   }
 ]

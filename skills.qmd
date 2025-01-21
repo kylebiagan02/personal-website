@@ -1,11 +1,20 @@
 ---
 title: "SKILLS"
 ---
-## Technical
-C++, Java, Python, R, SQL, Tableau, Git/GitHub, Jupyter Notebook, PyCharm, Visual Studio, Xcode, Adobe Acrobat, Google Workspace (Colab, Docs, Sheets, Slides), Microsoft Office (Excel, PowerPoint, Word)
+### Technical
+- Python, R, SQL, Java, C++
+- Tableau, Git/GitHub
+- Jupyter Notebook, RStudio, Visual Studio, Eclipse, Xcode
+- Microsoft Office (Excel, PowerPoint, Word), Google Workspace (Docs, Sheets, Slides)
 
-## Data
-Data (Analysis, Cleaning, Mining, Transformation, Visualization, Warehousing), Experiment Design and Analysis, Machine Learning, Model Validation, Modeling (Financial, Mathematical, Predictive, Statistical), Predictive Analysis, Statistical Consulting
+### Data
+- Data (Analysis, Cleaning, Mining, Transformation, Visualization, Warehousing)
+- Modeling (Financial, Mathematical, Statistical, Forecast), Model Validation
+- Experiment Design and Analysis, Machine Learning, Inference and Predictive Analysis
+- Statistical Consulting
 
-## Interpersonal
-Adaptability, Critical Thinking, Detail Orientation, Effective Communication, Leadership, Multitasking, Organizational Efficiency, Problem-Solving, Self-Motivation, Team Collaboration, Time Management
+### Interpersonal
+- Communication, Team and Cross-Functional Collaboration, Leadership, Adaptability, Active Listening
+- Time Management, Project Management, Multitasking
+- Problem-Solving, Critical Thinking, Decision-Making
+- Detail Orientation, Efficient Organization, Creativity
