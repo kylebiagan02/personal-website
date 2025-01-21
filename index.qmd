@@ -1,6 +1,5 @@
 ---
 toc: false
-title: "HOME"
 image: Grad_Pic_Edit.jpg
 about:
   template: trestles
@@ -25,3 +24,4 @@ Please explore my hyperlinks and other pages to find out a bit more about me. Th
 **Email:** <kjbiagan23@gmail.com>
 
 **Mobile:** +1 (949) 689-8270
+
