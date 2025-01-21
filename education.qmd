@@ -2,6 +2,16 @@
 title: "EDUCATION"
 ---
 
+## University of California, Irvine (UCI) -- Paul Merage School of Business
+### MS in Business Analytics (MSBA)
+**Irvine, CA**
+*Expected June 2025 – June 2026*
+Recipient of $15,000 in scholarships, including the Merage Scholarship and California Resident Scholarship
+
+#### Expected Coursework:
+- **Required:** Foundations of Business Analytics, Statistics for Data Science, Management Science for Analytics, Foundations of Marketing, Data and Programming for Analytics, Machine Learning for Analytics, Customer and Social Analytics
+- **Possible Electives:** Natural Language Processing and Applications, Big Data & Cloud Computing, Marketing Analytics, Business Data Management, Advanced Machine Learning, Mastering Predictive Analytics, Supply Chain Analytics, Technologies & Analytics Consulting, Art & Science of Applied Forecast Modeling, Special Topics in Analytics
+
 ## University of California, Los Angeles (UCLA)
 ### BS in Statistics and Data Science
 **Los Angeles, CA**
@@ -9,8 +19,7 @@ title: "EDUCATION"
 
 #### Relevant Coursework:
 - **Coding/Programming:** Intro to Programming, Intro to Data Science, Python and Other Technologies for Data Science
-- **Statistics:** Intro to Probability, Intro to Mathematical Statistics, Linear Models, Intro to Data Analysis and Regression, Intro to Design and
-Analysis of Experiment, Intro to Statistical Models and Data Mining, Intro to Computational Statistics, Intro to Computation and Optimization for Statistics, Intro to Monte Carlo Methods, Practice of Statistical Consulting
+- **Statistics:** Intro to Probability, Intro to Mathematical Statistics, Linear Models, Intro to Data Analysis and Regression, Intro to Design and Analysis of Experiment, Intro to Statistical Models and Data Mining, Intro to Computational Statistics, Intro to Computation and Optimization for Statistics, Intro to Monte Carlo Methods, Practice of Statistical Consulting
 - **Mathematics:** Intro to Data-Driven Mathematical Modeling, Linear Algebra, Analysis
 
 #### Extracurriculars:
@@ -18,7 +27,7 @@ Analysis of Experiment, Intro to Statistical Models and Data Mining, Intro to Co
 - Samahang Pilipino (SP) Pilipinx/Pilipinx American Community Organization
 
 ## University of California, Santa Barbara (UCSB)
-### BS in Financial Mathematics and Statistics *(Partially Completed, Transferred to UCLA)*
+### Financial Mathematics and Statistics *(BS Partially Completed, Transferred to UCLA)*
 **Santa Barbara, CA **
 *October 2020 – June 2022*
 
