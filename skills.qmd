@@ -2,19 +2,19 @@
 title: "SKILLS"
 ---
 ### Technical
-- Python, R, SQL, Java, C++
+- Python (pandas, NumPy, Matplotlib, Scikit-learn), R (tidyverse, lubridate, caret, glmnet, randomForest, RSQLite, knitr, mvtnorm), SQL, Java, C++
 - Tableau, Git/GitHub
 - Jupyter Notebook, RStudio, Visual Studio, Eclipse, Xcode
-- Microsoft Office (Excel, PowerPoint, Word), Google Workspace (Docs, Sheets, Slides)
+- Microsoft Excel (Pivot Tables, VLOOKUP, HLOOKUP, INDEX-MATCH)
 
 ### Data
-- Data (Analysis, Cleaning, Mining, Transformation, Visualization, Warehousing)
+- Data (Cleaning, Mining, Transformation, Visualization, Warehousing)
 - Modeling (Financial, Mathematical, Statistical, Forecast), Model Validation
-- Experiment Design and Analysis, Machine Learning, Inference and Predictive Analysis
-- Statistical Consulting
+- Exploratory Data Analysis (EDA), Inference and Predictive Analysis
+- Experiment Design, Machine Learning, Statistical Consulting
 
 ### Interpersonal
-- Communication, Team and Cross-Functional Collaboration, Leadership, Adaptability, Active Listening
-- Time Management, Project Management, Multitasking
-- Problem-Solving, Critical Thinking, Decision-Making
+- Communication, Team and Cross-Functional Collaboration, Active Listening
+- Time Management, Project Management, Leadership, Adaptability
+- Problem-Solving, Critical Thinking, Decision-Making, Multitasking
 - Detail Orientation, Efficient Organization, Creativity
