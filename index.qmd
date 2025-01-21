@@ -3,13 +3,6 @@ toc: false
 image: Grad_Pic_Edit.jpg
 about:
   template: trestles
-  links:
-    - icon: github
-      text: GitHub
-      url: https://github.com/kylebiagan02
-    - icon: linkedin
-      text: LinkedIn
-      url: https://www.linkedin.com/in/kylebiagan02/
 ---
 
 Hello,

@@ -1,10 +1,17 @@
 [
   {
+    "objectID": "résumé.html",
+    "href": "résumé.html",
+    "title": "RÉSUMÉ",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "",
+    "title": "Kyle Biagan's Personal Website",
     "section": "",
-    "text": "Hello,\nI’m Kyle Biagan, UCLA graduate with a B.S. in Statistics and Data Science, proficient in Python, R, SQL, Java, C++, Tableau, and Git/GitHub. I’m experienced in data analysis, visualization, and process optimization, with proven results from an internship at Boeing. I’m seeking to apply technical and collaborative skills in data-driven projects.\nThis website showcases all of my relevant academic and professional experience.\nPlease explore my hyperlinks and other pages to find out a bit more about me. Thank you!\n\nContact Information\nEmail: kjbiagan23@gmail.com\nMobile: +1 (949) 689-8270"
+    "text": "Hello,\nI’m Kyle Biagan, UCLA graduate with a B.S. in Statistics and Data Science, proficient in Python, R, SQL, Java, C++, Tableau, and Git/GitHub. I’m experienced in data analysis, visualization, and process optimization, with proven results from an internship at Boeing. I’m seeking to apply technical and collaborative skills in data-driven projects.\nThis website showcases all of my relevant academic and professional experience.\nPlease explore my hyperlinks and other pages to find out a bit more about me. Thank you!\n\nContact Information\nEmail: kjbiagan23@gmail.com\nMobile: +1 (949) 689-8270\n\n\n\n Back to top"
   },
   {
     "objectID": "education.html",
@@ -39,7 +46,7 @@
     "href": "skills.html",
     "title": "SKILLS",
     "section": "",
-    "text": "Technical\n\nPython (pandas, NumPy, Matplotlib, Scikit-learn), R (tidyverse, lubridate, caret, glmnet, randomForest, RSQLite, knitr, mvtnorm), SQL, Java, C++\nTableau, Git/GitHub\nJupyter Notebook, RStudio, Visual Studio, Eclipse, Xcode\nMicrosoft Excel (Pivot Tables, VLOOKUP, HLOOKUP, INDEX-MATCH)\n\n\n\nData\n\nData (Cleaning, Mining, Transformation, Visualization, Warehousing)\nModeling (Financial, Mathematical, Statistical, Forecast), Model Validation\nExploratory Data Analysis (EDA), Inference and Predictive Analysis\nExperiment Design, Machine Learning, Statistical Consulting\n\n\n\nInterpersonal\n\nCommunication, Team and Cross-Functional Collaboration, Active Listening\nTime Management, Project Management, Leadership, Adaptability\nProblem-Solving, Critical Thinking, Decision-Making, Multitasking\nDetail Orientation, Efficient Organization, Creativity"
+    "text": "Technical\n\nPython (pandas, NumPy, Matplotlib, Scikit-learn), R (tidyverse, lubridate, caret, glmnet, randomForest, RSQLite, knitr, mvtnorm), SQL, Java, C++\nTableau, Git/GitHub\nJupyter Notebook, RStudio, Visual Studio, Eclipse, Xcode\nMicrosoft Excel (Pivot Tables, VLOOKUP, HLOOKUP, INDEX-MATCH)\n\n\n\nData\n\nData (Cleaning, Mining, Transformation, Visualization, Warehousing)\nModeling (Financial, Mathematical, Statistical, Forecast), Model Validation\nExploratory Data Analysis (EDA), Inference and Predictive Analysis\nExperiment Design, Machine Learning, Statistical Consulting\n\n\n\nInterpersonal\n\nCommunication, Team and Cross-Functional Collaboration, Active Listening\nTime Management, Project Management, Leadership, Adaptability\nProblem-Solving, Critical Thinking, Decision-Making, Multitasking\nDetail Orientation, Efficient Organization, Creativity\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "experience-projects.html",
