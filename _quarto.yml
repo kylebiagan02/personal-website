@@ -1,8 +1,8 @@
 project:
+  title: "Kyle Biagan's Personal Website"
   type: website
 
 website:
-  title: "Kyle Biagan's Personal Website"
   navbar:
     left:
       - href: index.qmd
