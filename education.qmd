@@ -5,7 +5,7 @@ title: "EDUCATION"
 ## University of California, Irvine (UCI) -- Paul Merage School of Business
 ### MS in Business Analytics (MSBA)
 **Irvine, CA**
-*Expected June 2025 – June 2026*
+*Expected June 2026*
 
 Recipient of $15,000 in scholarships, including the Merage Scholarship and California Resident Scholarship
 
@@ -43,6 +43,5 @@ Recipient of $15,000 in scholarships, including the Merage Scholarship and Calif
 - National Society of Leadership and Success (NSLS) Nomination (Winter 2021)
 
 #### Extracurriculars:
-- Data Analysis and Coding Club (DAnC), Data Science Club
-- Fellowship of Catholic University Students (FOCUS)
-- Kapatirang Pilipino (KP) Filipinx-Interest Organization
+- Data Analysis and Coding Club (DAnC)
+- Data Science Club
